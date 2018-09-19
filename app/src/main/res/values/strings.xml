@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhereAmI</string>
+    <string name="main_btn_start">BAŞLA</string>
+    <string name="main_btn_stop">BİTİR</string>
+</resources>
